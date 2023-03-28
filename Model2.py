@@ -33,9 +33,9 @@ DEST_DIR = './Data'
 # In[4]:
 
 
-shutil.rmtree("./Data")
-shutil.rmtree("./Model_Data")
-shutil.rmtree("./Model")
+# shutil.rmtree("./Data")
+# shutil.rmtree("./Model_Data")
+# shutil.rmtree("./Model")
 
 
 # ## Randomly choosing 'N' targets from the ROOT Dataset along with a category other than the 'N' targets consisting of miscellaneous other persons
